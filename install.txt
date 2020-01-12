@@ -1,0 +1,5 @@
+install on freecad:
+  tools
+    addon manager
+      Macros
+        CloneConvert.FCMacro  
